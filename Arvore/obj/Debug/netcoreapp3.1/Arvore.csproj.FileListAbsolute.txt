@@ -1,0 +1,13 @@
+E:\Faculdade\2021_2\lab\arvore\Arvore\Arvore\bin\Debug\netcoreapp3.1\Arvore.exe
+E:\Faculdade\2021_2\lab\arvore\Arvore\Arvore\bin\Debug\netcoreapp3.1\Arvore.deps.json
+E:\Faculdade\2021_2\lab\arvore\Arvore\Arvore\bin\Debug\netcoreapp3.1\Arvore.runtimeconfig.json
+E:\Faculdade\2021_2\lab\arvore\Arvore\Arvore\bin\Debug\netcoreapp3.1\Arvore.runtimeconfig.dev.json
+E:\Faculdade\2021_2\lab\arvore\Arvore\Arvore\bin\Debug\netcoreapp3.1\Arvore.dll
+E:\Faculdade\2021_2\lab\arvore\Arvore\Arvore\bin\Debug\netcoreapp3.1\Arvore.pdb
+E:\Faculdade\2021_2\lab\arvore\Arvore\Arvore\obj\Debug\netcoreapp3.1\Arvore.csprojAssemblyReference.cache
+E:\Faculdade\2021_2\lab\arvore\Arvore\Arvore\obj\Debug\netcoreapp3.1\Arvore.AssemblyInfoInputs.cache
+E:\Faculdade\2021_2\lab\arvore\Arvore\Arvore\obj\Debug\netcoreapp3.1\Arvore.AssemblyInfo.cs
+E:\Faculdade\2021_2\lab\arvore\Arvore\Arvore\obj\Debug\netcoreapp3.1\Arvore.csproj.CoreCompileInputs.cache
+E:\Faculdade\2021_2\lab\arvore\Arvore\Arvore\obj\Debug\netcoreapp3.1\Arvore.dll
+E:\Faculdade\2021_2\lab\arvore\Arvore\Arvore\obj\Debug\netcoreapp3.1\Arvore.pdb
+E:\Faculdade\2021_2\lab\arvore\Arvore\Arvore\obj\Debug\netcoreapp3.1\Arvore.genruntimeconfig.cache
